@@ -47,7 +47,7 @@ describe('#context', () => {
             url: '/about'
           }
         ],
-        serviceName: 'cdp-node-frontend-template',
+        serviceName: 'iw-demo-frontend',
         serviceUrl: '/'
       })
     })
@@ -136,7 +136,7 @@ describe('#context cache', () => {
             url: '/about'
           }
         ],
-        serviceName: 'cdp-node-frontend-template',
+        serviceName: 'iw-demo-frontend',
         serviceUrl: '/'
       })
     })
